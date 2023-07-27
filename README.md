@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/article-preview-component-mCVjaVGuaT
 - Live Site URL: https://satryandi-miniproject12.netlify.app/
 
 ## My process
